@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T10:46:22.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9xscvwvIjD_7_FUjUvuZ" version="21.3.7" type="device">
+  <diagram name="Sayfa -1" id="u1-7YLLRYP5Owdrmxb3V">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-2" value="Amoebiasis" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="174" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-3" value="Covid 19" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="484" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-4" value="Diarrhea" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="14" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-5" value="High Fever" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="348" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-6" value="Loss of Smell and Taste" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="684" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-7" value="Antibiotic Medication" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="174" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-8" value="Viral Medication" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="290" as="sourcePoint" />
+            <mxPoint x="84" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="300" as="sourcePoint" />
+            <mxPoint x="384" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494" y="300" as="sourcePoint" />
+            <mxPoint x="434" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="300" as="sourcePoint" />
+            <mxPoint x="714" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74" y="560" as="sourcePoint" />
+            <mxPoint x="164" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="560" as="sourcePoint" />
+            <mxPoint x="264" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="560" as="sourcePoint" />
+            <mxPoint x="534" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="704" y="560" as="sourcePoint" />
+            <mxPoint x="614" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-43" value="P(a) = 0.1&lt;br&gt;P(~a) = 0.9" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-44" value="P(c) = 0.29&lt;br&gt;P(~c) = 0.71" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="584" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-47" value="P(d|a) = 0.3&lt;br&gt;P(~d|a) = 0.7&lt;br&gt;P(d|~a) = 0.4&lt;br&gt;P(~d|~a) = 0.6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="450" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-48" value="P(f |a, c) = 0.87&lt;br&gt;P(~f |a, c) = 0.13&lt;br&gt;P(f |a, ~c) = 0.4&lt;br&gt;P(~f |a, ~c) = 0.6&lt;br&gt;P(f |~a, c) = 0.6&lt;br&gt;P(~f |~a, c) = 0.4&lt;br&gt;P(f |~a,~c) = 0.3&lt;br&gt;P(~f |~a,~c) = 0.7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="484" y="410" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-49" value="P(l | c) = 0.86&lt;br&gt;P(~l | c) = 0.14&lt;br&gt;P(l | ~c) = 0.1&lt;br&gt;P(~l | ~c) = 0.9" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="704" y="570" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-50" value="P(v |f, l) = 0.9&lt;br&gt;P(~v |f, l) = 0.1&lt;br&gt;P(v |f, ~l) = 0.3&lt;br&gt;P(~v |f, ~l) = 0.7&lt;br&gt;P(v |~f, l) = 0.5&lt;br&gt;P(~v |~f, l) = 0.5&lt;br&gt;P(v |~f,~l) = 0.1&lt;br&gt;P(~v |~f,~l) = 0.9" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="840" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Am3E_RzD8I_RVl5dGcoA-51" value="P(b |d, f) = 0.75&lt;br&gt;P(~b |d, f) = 0.25&lt;br&gt;P(b | d, ~f) = 0.60&lt;br&gt;P(~b | d, ~f) = 0.40&lt;br&gt;P(b |~d, f) = 0.32&lt;br&gt;P(~b |~d, f) = 0.68&lt;br&gt;P(b |~d,~f) = 0.2&lt;br&gt;P(~b |~d,~f) = 0.8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="179" y="840" width="110" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
